@@ -1,0 +1,7 @@
+{
+  "Hello":"Hello, world!",
+  "missing_parameter":"Missing parameter",
+  "username_or_password_error":"Username or password error",
+  "unknow_device_type":"Unknow device type"
+
+}
